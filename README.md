@@ -48,8 +48,6 @@ I'm a Computer Science student at University of Indonesia, passionate about star
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original-wordmark.svg" height="40" alt="aws" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase" />
 </div>
 
@@ -58,5 +56,5 @@ I'm a Computer Science student at University of Indonesia, passionate about star
 <h3 align="left">🔥 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muttaqinmuzakkir&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
+  <img src="https://streak-stats.demolab.com?user=muttyqt15&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" />
 </div>
