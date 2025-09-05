@@ -49,11 +49,11 @@
 </ol>
 </p>
 
+<h3 align="center">📊 GitHub Stats</h3>
 
-<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/2023-400%20commits-blue" alt="2023 commits">
+  <img src="https://img.shields.io/badge/2024-1100%20commits-green" alt="2024 commits">
+  <img src="https://img.shields.io/badge/2025-700%2B%20commits-yellow" alt="2025 commits">
+</p>
 
-<div align="center">
-![2023](https://img.shields.io/badge/2023-400%20commits-blue)
-![2024](https://img.shields.io/badge/2024-1100%20commits-green)
-![2025](https://img.shields.io/badge/2025-700%2B%20commits-yellow)  
-</div>
