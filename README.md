@@ -42,11 +42,13 @@
 ---
 
 <h3 align="left">🔭 Current Focus</h3>
-
 <p align="left">
-<strong>1. Hiff AI:</strong> Engineering a multi-modal AI pipeline for legal tech, focusing on creating a deterministic and auditable system for trademark infringement analysis. <br>
-<strong>2. Merch-Drop API:</strong> Architecting a high-concurrency e-commerce backend in Go, designed to handle "flash sale" scenarios with 100% data integrity using atomic database transactions and pessimistic locking.
+<ul>
+  <li><strong>1. Hiff AI:</strong> Engineering a multi-modal AI pipeline for legal tech, focusing on creating a deterministic and auditable system for trademark infringement analysis.</li>
+  <li><strong>2. Merch-Drop API:</strong> Architecting a high-concurrency e-commerce backend in Go, designed to handle "flash sale" scenarios with 100% data integrity using atomic database transactions and pessimistic locking.</li>
+</ul>
 </p>
+
 
 <h3>📊 GitHub Stats</h3>
 
