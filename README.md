@@ -53,5 +53,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muttyqt15&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" />
+![2023](https://img.shields.io/badge/2023-400%20commits-blue)
+![2024](https://img.shields.io/badge/2024-1100%20commits-green)
+![2025](https://img.shields.io/badge/2025-700%2B%20commits-yellow)  
 </div>
