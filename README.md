@@ -51,9 +51,15 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/2023-400%20commits-blue" alt="2023 commits">
-  <img src="https://img.shields.io/badge/2024-1100%20commits-green" alt="2024 commits">
-  <img src="https://img.shields.io/badge/2025-700%2B%20commits-yellow" alt="2025 commits">
-</p>
+<div align="center">
+  <!-- Streak Chart -->
+  <img src="https://streak-stats.demolab.com?user=muttyqt15&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub streak stats"/>
+
+  <br><br>
+
+  <!-- Yearly Contribution Badges -->
+  <img src="https://img.shields.io/badge/2023-400%20commits-blue?style=for-the-badge" alt="2023 commits">
+  <img src="https://img.shields.io/badge/2024-1100%20commits-brightgreen?style=for-the-badge" alt="2024 commits">
+  <img src="https://img.shields.io/badge/2025-700%2B%20commits-yellow?style=for-the-badge" alt="2025 commits">
+</div>
 
